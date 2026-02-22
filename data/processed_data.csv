@@ -1,0 +1,31 @@
+source_url,timestamp,clean_text,true_category,predicted_category,risk_level
+forum_alpha.onion,2026-02-17 19:02:25,fresh credit card dumps us banks,Financial Fraud,Financial Fraud,MEDIUM
+leaks_gamma.onion,2026-02-21 19:02:25,selling cocaine lsd via encrypted channels,Drug Trafficking,Drug Trafficking,MEDIUM
+forum_alpha.onion,2026-02-14 19:02:25,listing illegal firearms ammunition,Weapons Trade,Weapons Trade,MEDIUM
+market_beta.onion,2026-02-16 19:02:25,fresh credit card dumps us banks,Financial Fraud,Financial Fraud,MEDIUM
+leaks_gamma.onion,2026-02-13 19:02:25,listing illegal firearms ammunition,Weapons Trade,Weapons Trade,MEDIUM
+forum_alpha.onion,2026-02-22 19:02:25,selling cocaine lsd via encrypted channels,Drug Trafficking,Drug Trafficking,HIGH
+leaks_gamma.onion,2026-02-13 19:02:25,selling ransomware builder full documentation,Cyber Attack,Cyber Attack,HIGH
+market_beta.onion,2026-02-17 19:02:25,discussion ddos attack techniques,Cyber Attack,Cyber Attack,MEDIUM
+market_beta.onion,2026-02-14 19:02:25,selling cocaine lsd via encrypted channels,Drug Trafficking,Drug Trafficking,MEDIUM
+forum_alpha.onion,2026-02-14 19:02:25,database dump million user credentials,Data Leak,Data Leak,HIGH
+forum_alpha.onion,2026-02-13 19:02:25,database dump million user credentials,Data Leak,Data Leak,HIGH
+leaks_gamma.onion,2026-02-22 19:02:25,listing illegal firearms ammunition,Weapons Trade,Weapons Trade,MEDIUM
+forum_alpha.onion,2026-02-14 19:02:25,discussion ddos attack techniques,Cyber Attack,Cyber Attack,MEDIUM
+forum_alpha.onion,2026-02-14 19:02:25,fresh credit card dumps us banks,Financial Fraud,Financial Fraud,MEDIUM
+leaks_gamma.onion,2026-02-18 19:02:25,listing illegal firearms ammunition,Weapons Trade,Weapons Trade,MEDIUM
+leaks_gamma.onion,2026-02-19 19:02:25,selling cocaine lsd via encrypted channels,Drug Trafficking,Drug Trafficking,MEDIUM
+market_beta.onion,2026-02-22 19:02:25,fresh credit card dumps us banks,Financial Fraud,Financial Fraud,HIGH
+leaks_gamma.onion,2026-02-15 19:02:25,fresh credit card dumps us banks,Financial Fraud,Financial Fraud,MEDIUM
+market_beta.onion,2026-02-18 19:02:25,discussion ddos attack techniques,Cyber Attack,Cyber Attack,MEDIUM
+leaks_gamma.onion,2026-02-19 19:02:25,database dump million user credentials,Data Leak,Data Leak,HIGH
+market_beta.onion,2026-02-14 19:02:25,selling ransomware builder full documentation,Cyber Attack,Cyber Attack,HIGH
+leaks_gamma.onion,2026-02-17 19:02:25,discussion ddos attack techniques,Cyber Attack,Cyber Attack,MEDIUM
+leaks_gamma.onion,2026-02-16 19:02:25,discussion ddos attack techniques,Cyber Attack,Cyber Attack,MEDIUM
+market_beta.onion,2026-02-22 19:02:25,selling cocaine lsd via encrypted channels,Drug Trafficking,Drug Trafficking,HIGH
+forum_alpha.onion,2026-02-20 19:02:25,discussion ddos attack techniques,Cyber Attack,Cyber Attack,HIGH
+forum_alpha.onion,2026-02-22 19:02:25,selling ransomware builder full documentation,Cyber Attack,Cyber Attack,HIGH
+market_beta.onion,2026-02-22 19:02:25,listing illegal firearms ammunition,Weapons Trade,Weapons Trade,MEDIUM
+leaks_gamma.onion,2026-02-13 19:02:25,listing illegal firearms ammunition,Weapons Trade,Weapons Trade,MEDIUM
+market_beta.onion,2026-02-13 19:02:25,fresh credit card dumps us banks,Financial Fraud,Financial Fraud,MEDIUM
+market_beta.onion,2026-02-15 19:02:25,discussion ddos attack techniques,Cyber Attack,Cyber Attack,MEDIUM
